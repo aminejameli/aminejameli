@@ -41,14 +41,6 @@
 ## 📈 Activity Graph
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aminejemmali&theme=github)](https://github.com/Aminejemmali)
 
-## 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Your-Twitter-URL)
-
-## 🎯 Featured Projects
-<a href="https://github.com/Aminejemmali/ProjectName">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aminejemmali&repo=ProjectName&theme=radical" />
-</a>
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/Aminejemmali)
+⭐️ From [Aminejemmali](https://github.com/Aminejemmali)
