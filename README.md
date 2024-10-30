@@ -37,8 +37,6 @@
 ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Aminejemmali&theme=nord)
 
-## 📈 Activity Graph
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aminejemmali&theme=github)](https://github.com/Aminejemmali)
 
 ---
 ⭐️ From [Aminejemmali](https://github.com/Aminejemmali) 🇵🇸
