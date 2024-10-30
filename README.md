@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amine Jameli
+# 👋 Hi, I'm Amine Jameli 🇵🇸
 
 ## 🚀 About Me
 - 🔭 I'm currently working on Cloud Computing
@@ -6,6 +6,7 @@
 - 👯 I'm looking to collaborate on Cloud online Community
 - 💬 Ask me about Devops
 - 📫 How to reach me: amine.jameli@proton.me
+- 🇵🇸 Standing with Palestine
 
 ## 🛠️ Technologies & Tools
 ### Languages
@@ -27,8 +28,6 @@
 ![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-
-
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminejemmali&show_icons=true&theme=radical)
 
@@ -41,6 +40,5 @@
 ## 📈 Activity Graph
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aminejemmali&theme=github)](https://github.com/Aminejemmali)
 
-
 ---
-⭐️ From [Aminejemmali](https://github.com/Aminejemmali)
+⭐️ From [Aminejemmali](https://github.com/Aminejemmali) 🇵🇸
