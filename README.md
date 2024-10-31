@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Amine Jameli 🇵🇸
+# 👋 Hi, I'm Amine Jameli
+## 🌟 Support Palestine 
+[![Stand With Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org)
+
 
 ## 🚀 About Me
 - 🎓 Master's student in Cloud Computing & Dedicated Applications
@@ -34,13 +37,20 @@
 
 ## 🏆 Featured Projects
 
-### 📱 Conference Management System
-- Flutter mobile application with Django backend
-- Integrated Stripe payment gateway
-- Real-time conference management features
+### 🚀 Cloud Infrastructure Management
+- Automated deployment pipelines with CI/CD
+- Containerized microservices architecture
+- Multi-cloud environment orchestration
 
-### ☁️ Cloud Projects
-[You can add your current cloud projects here]
+### 📱 Mobile & Web Solutions
+- Cross-platform applications using Flutter
+- Scalable backend systems with Django/Node.js
+- Payment gateway integrations
+
+### 🛠️ Team Leadership
+- Leading development teams
+- Project management and client relations
+- Agile methodology implementation
 
 ## 🎓 Education
 - Master's in Cloud Computing & Dedicated Applications (2023 - Present)
