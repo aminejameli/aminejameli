@@ -66,8 +66,8 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Aminejemmali&theme=nord)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](Your-LinkedIn-URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=googlechrome)](Your-Portfolio-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([Your-LinkedIn-URL](https://www.linkedin.com/in/amine-jameli-9626781a2/))
+
 
 ---
 ⭐️ From [Aminejemmali](https://github.com/Aminejemmali) 🇵🇸
