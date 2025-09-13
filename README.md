@@ -11,7 +11,7 @@
 - 👥 Building and leading development teams
 - 🚀 Passionate about backend development and solving complex problems
 - 👯 Looking to collaborate on Cloud & DevOps Community projects
-- 📫 Reach me: amine.jameli@proton.me
+- 📫 Reach me: contact@aminejameli.tn
 - 🇵🇸 Standing with Palestine
 
 ## 💻 Skills & Technologies
