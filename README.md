@@ -57,17 +57,15 @@
 - Bachelor's in Embedded Systems & Mobile Development (2019 - 2022)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminejemmali&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aminejameli&show_icons=true&theme=radical)
 
 ## 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminejemmali&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminejameli&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Aminejemmali&theme=nord)
+![Trophy](https://github-profile-trophy.vercel.app/?username=aminejameli&theme=nord)
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([Your-LinkedIn-URL](https://www.linkedin.com/in/amine-jameli-9626781a2/))
-
+#
 
 ---
-⭐️ From [Aminejemmali](https://github.com/Aminejemmali) 🇵🇸
+⭐️ From [Aminejemmali](https://github.com/aminejameli) 🇵🇸
